@@ -1,6 +1,6 @@
 # javascript-exercises-with-comments
-intermediate js packt lesson 12-1
+intermediate js packt lessons chapter 12
 
 Javascript from beginner to professional Packt textbook, 
-intermediate lesson 12-1, all exercises from Chapter 12.
+intermediate lessons, all exercises from Chapter 12.
 Included with comments.
